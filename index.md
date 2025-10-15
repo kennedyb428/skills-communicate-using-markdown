@@ -1,8 +1,7 @@
-# Swan
-#### Peaceful Image
-###### Bacground Image
+# Yaktocat
+#### Add an image Header 2
+###### Add an image Header 3
 
-<img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/db2bcf45-784f-4a6e-9039-0e7de40c35f9" />
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-[Image of Swan](https://stock.adobe.com/images/swan-isolated-on-black-lake-background/1705806778)
 
